@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nanaebi.github.io/blog/sitemap.xml
