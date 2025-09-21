@@ -8,7 +8,7 @@ title = "Portable My Room"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/author.png"
+  logo = "img/room.png"
   description = "Nana's blog"
 
 [params.author]
