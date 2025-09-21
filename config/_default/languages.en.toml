@@ -1,22 +1,22 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Portable Room"
+title = "Portable My Room"
 
 [params]
   displayName = "English"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-#  logo = "img/author.png"
-  description = "A powerful, lightweight theme for Hugo."
+  logo = "img/cactus.png"
+  description = "Nana's blog"
 
 [params.author]
   name = "Nana"
   email = ""
-  image = "img/author.png"
-  headline = "－Portable Room－"
-  bio = ""
+  image = "img/author_icon.jpeg"
+  headline = "－Portable My Room－"
+  bio = "何者でもない人。マイペースに生きたい。"
   #links = [
   #  { x-twitter = "https://twitter.com/burufugu" },
   #  { github = "https://github.com/nunocoracao/blowfish" },

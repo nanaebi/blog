@@ -3,191 +3,191 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://nanaebi.github.io/blog/categories/</loc>
+    <loc>http://localhost:1313/blog/categories/</loc>
     <lastmod>2025-09-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://nanaebi.github.io/blog/it/categories/"
+      href="http://localhost:1313/blog/it/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://nanaebi.github.io/blog/ja/categories/"
+      href="http://localhost:1313/blog/ja/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://nanaebi.github.io/blog/zh-cn/categories/"
+      href="http://localhost:1313/blog/zh-cn/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://nanaebi.github.io/blog/categories/"
+      href="http://localhost:1313/blog/categories/"
     />
   </url>
   <url>
-    <loc>https://nanaebi.github.io/blog/posts/cerro_pachon/</loc>
+    <loc>http://localhost:1313/blog/posts/cerro_pachon/</loc>
     <lastmod>2025-09-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nanaebi.github.io/blog/tags/chile/</loc>
+    <loc>http://localhost:1313/blog/tags/chile/</loc>
     <lastmod>2025-09-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nanaebi.github.io/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-09-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://nanaebi.github.io/blog/it/"
+      href="http://localhost:1313/blog/it/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://nanaebi.github.io/blog/ja/"
+      href="http://localhost:1313/blog/ja/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://nanaebi.github.io/blog/zh-cn/"
+      href="http://localhost:1313/blog/zh-cn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://nanaebi.github.io/blog/"
+      href="http://localhost:1313/blog/"
     />
   </url>
   <url>
-    <loc>https://nanaebi.github.io/blog/posts/</loc>
+    <loc>http://localhost:1313/blog/posts/</loc>
     <lastmod>2025-09-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nanaebi.github.io/blog/tags/</loc>
+    <loc>http://localhost:1313/blog/tags/</loc>
     <lastmod>2025-09-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://nanaebi.github.io/blog/it/tags/"
+      href="http://localhost:1313/blog/it/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://nanaebi.github.io/blog/ja/tags/"
+      href="http://localhost:1313/blog/ja/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://nanaebi.github.io/blog/zh-cn/tags/"
+      href="http://localhost:1313/blog/zh-cn/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://nanaebi.github.io/blog/tags/"
+      href="http://localhost:1313/blog/tags/"
     />
   </url>
   <url>
-    <loc>https://nanaebi.github.io/blog/categories/trip/</loc>
+    <loc>http://localhost:1313/blog/categories/trip/</loc>
     <lastmod>2025-09-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nanaebi.github.io/blog/tags/trip/</loc>
+    <loc>http://localhost:1313/blog/tags/trip/</loc>
     <lastmod>2025-09-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nanaebi.github.io/blog/tags/%E5%A4%A9%E6%96%87%E5%8F%B0/</loc>
+    <loc>http://localhost:1313/blog/tags/%E5%A4%A9%E6%96%87%E5%8F%B0/</loc>
     <lastmod>2025-09-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nanaebi.github.io/blog/categories/blog/</loc>
+    <loc>http://localhost:1313/blog/categories/blog/</loc>
     <lastmod>2025-09-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nanaebi.github.io/blog/tags/diy/</loc>
+    <loc>http://localhost:1313/blog/tags/diy/</loc>
     <lastmod>2025-09-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nanaebi.github.io/blog/posts/first-post/</loc>
+    <loc>http://localhost:1313/blog/posts/first-post/</loc>
     <lastmod>2025-09-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nanaebi.github.io/blog/tags/%E3%83%8D%E3%83%83%E3%83%88%E6%BC%82%E6%B5%81%E8%A8%98/</loc>
+    <loc>http://localhost:1313/blog/tags/%E3%83%8D%E3%83%83%E3%83%88%E6%BC%82%E6%B5%81%E8%A8%98/</loc>
     <lastmod>2025-09-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nanaebi.github.io/blog/authors/</loc>
+    <loc>http://localhost:1313/blog/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://nanaebi.github.io/blog/it/authors/"
+      href="http://localhost:1313/blog/it/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://nanaebi.github.io/blog/ja/authors/"
+      href="http://localhost:1313/blog/ja/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://nanaebi.github.io/blog/zh-cn/authors/"
+      href="http://localhost:1313/blog/zh-cn/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://nanaebi.github.io/blog/authors/"
+      href="http://localhost:1313/blog/authors/"
     />
   </url>
   <url>
-    <loc>https://nanaebi.github.io/blog/series/</loc>
+    <loc>http://localhost:1313/blog/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://nanaebi.github.io/blog/it/series/"
+      href="http://localhost:1313/blog/it/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://nanaebi.github.io/blog/ja/series/"
+      href="http://localhost:1313/blog/ja/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://nanaebi.github.io/blog/zh-cn/series/"
+      href="http://localhost:1313/blog/zh-cn/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://nanaebi.github.io/blog/series/"
+      href="http://localhost:1313/blog/series/"
     />
   </url>
 </urlset>
