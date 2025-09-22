@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Days on Portable My Room</title>
+    <link>https://nanaebi.github.io/blog/categories/days/</link>
+    <description>Recent content in Days on Portable My Room</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Nana</copyright>
+    <lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nanaebi.github.io/blog/categories/days/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dieciochoを過ごす</title>
+      <link>https://nanaebi.github.io/blog/posts/dieciocho/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://nanaebi.github.io/blog/posts/dieciocho/</guid>
+      <description>&lt;p&gt;子どもの同級生の家族からDieciocho(ディエシオチョ:独立記念日)のパーティーに招待されて、一緒に過ごした。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nanaebi.github.io/blog/posts/dieciocho/featured-cometa.jpeg" />
+    </item>
+    
+  </channel>
+</rss>
